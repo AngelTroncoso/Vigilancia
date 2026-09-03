@@ -1,0 +1,6 @@
+{
+  "name": "GeriCare Wi-Fi",
+  "description": "Acompañamiento y detección de caídas para adultos mayores mediante análisis de postura 3D por radiofrecuencia Wi-Fi (CSI) sin cámaras ni wearables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
